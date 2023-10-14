@@ -1,0 +1,61 @@
+/*
+Name: Rachel Winfield-Ward
+Student Number: 8761871
+*/
+
+body{
+    width: 75vw;
+    max-width: 900px;
+    margin: 10px 50px 20px;
+    font: 1.2rem "Fira Sans", serif;
+    padding: 1em;
+}
+.structural{
+    border: 4px solid black;
+    border-radius: 20px;
+    padding: 1em;
+    margin: 3rem;
+}
+h1{
+   color: rgb(54, 48, 124);
+   font-variant: small-caps;
+}
+h2{
+    color: black;
+    font-variant: small-caps;
+}
+footer p{
+    font-size: 1rem;
+    color: black;
+}
+main{
+  float: left;
+  width: 70%;
+}
+aside{
+   float: right;
+   clear: both;
+   width: 1em;
+}
+.mainimg{
+    border: 4px solid rgb(33, 32, 83);
+}
+figcaption{
+    font-style: bold;
+    font-variant: small-caps;
+}
+q{
+    font-family: cursive;
+    font-style: italic;
+    font-size: larger;
+}
+ul li{
+    list-style-type: none;
+}
+li>a{
+    text-decoration: none;
+    color: green;
+}
+a:hover{
+    color: blueviolet;
+}
